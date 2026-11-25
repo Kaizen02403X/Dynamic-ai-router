@@ -1,6 +1,8 @@
 [dynamic_ai_router_readme.md](https://github.com/user-attachments/files/35413395/dynamic_ai_router_readme.md)
 # 🚀 Dynamic AI Router & Kill Switch
 
+## Powered By
+[![Flagsmith](https://img.shields.io/badge/Feature%20Flags-Flagsmith-6633FF?style=for-the-badge)](https://www.flagsmith.com/)
 A production-style AI routing gateway built with **FastAPI**, **Flagsmith**, and the **Google GenAI SDK**. Instead of hardcoding AI models and system prompts into backend code, this router fetches live configuration per user on every request—enabling instant kill switches, zero-downtime model switching, automatic failover, and live A/B testing.
 
 ---
